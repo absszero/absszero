@@ -2,7 +2,7 @@
 title: '檢測大陸身份證字號 for PHP'
 date: Mon, 23 Apr 2012 06:02:44 +0000
 draft: false
-tags: [IT 筆記, php 中國大陸 身份證字號]
+tags: [IT 筆記, php, 身份證字號]
 ---
 
 PHP 版本的檢測大陸身份證字號 {{< highlight php >}} 
