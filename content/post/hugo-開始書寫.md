@@ -26,7 +26,7 @@ SET msg="rebuilding site %DATE%"
 if NOT "%1"=="" (
     SET msg=%1
 )
-git commit -m "$msg"
+git commit -m %msg%
 REM Push source and build repos.
 git push origin master
 cd ..
